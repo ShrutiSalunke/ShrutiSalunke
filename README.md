@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Salunke</h1>
 <h3 align="center">Aspiring Web Developer and Designer seeking an Internship</h3>
-<img  src = "[[https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html](https://www.artstation.com/artwork/ealoGJ)](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)">
+<img aligh="right" width="400" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutisalunke&label=Profile%20views&color=0e75b6&style=flat" alt="shrutisalunke" /> </p>
 
