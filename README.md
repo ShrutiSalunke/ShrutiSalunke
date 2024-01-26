@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sshruti.salunke@gmail.com**
 
-- 📄 Know about my experiences([(https://shrutisalunke.github.io/Resume/ShrutiResume.pdf)](https://github.com/ShrutiSalunke/Resume/blob/main/ShrutiResumeCV.pdf))
+- 📄 Know about my experiences([([https://shrutisalunke.github.io/Resume/ShrutiResume.pdf](https://github.com/ShrutiSalunke/Resume/blob/main/Shruti-Resume.pdf)f)](https://github.com/ShrutiSalunke/Resume/blob/main/ShrutiResumeCV.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
