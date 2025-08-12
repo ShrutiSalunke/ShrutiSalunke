@@ -40,10 +40,12 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiSalunke&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrutiSalunke&show_icons=true&theme=tokyonight)  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiSalunke&layout=compact&theme=tokyonight" alt="Top Languages" width="300" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiSalunke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
+</p>
 
 ---
 
