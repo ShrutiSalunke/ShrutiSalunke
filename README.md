@@ -8,7 +8,7 @@
 🚀 Completed freelance projects streamlining operations with custom business apps and automation tools.  
 🤖 Experienced in Python AI/ML with TensorFlow, building defect detection models that enhance accuracy.  
 📫 Reach me at **sshruti.salunke@gmail.com**  
-📄 [View my Resume](https://github.com/ShrutiSalunke/Resume/blob/main/ShrutiResume.pdf)  
+📄 [View my Resume][(https://github.com/ShrutiSalunke/Resume/blob/main/ShrutiResume.pdf](https://github.com/ShrutiSalunke/ShrutiResume/blob/main/Shruti_Resume.pdf))  
 
 ---
 
