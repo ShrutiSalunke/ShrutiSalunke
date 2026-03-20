@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Shruti Salunke  
 ### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver  
 
-<img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="300"/>
 
 💡 I build **scalable web applications and AI-powered solutions** that solve real business problems.  
 💻 Experienced in **Django, .NET, SQL, and JavaScript**, with a focus on backend architecture and system design.  
